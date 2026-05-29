@@ -2,19 +2,21 @@
 
 ## 📌 Project Overview
 
-This project showcases an interactive Power BI dashboard developed using the AdventureWorks dataset to analyze sales, customers, products, and regional performance. The report leverages data modeling, DAX calculations, and interactive reporting features to deliver actionable business insights.
+Sales performance can be influenced by customer behavior, product trends, and geographic factors. AdventureWorks business data provides insights into sales activity, customer segments, product performance, and regional trends. Analyzing this data helps uncover patterns and business insights through interactive reporting and dashboard analysis.
 
 ---
+## 🎯 Business Task
 
-## 🎯 Project Objectives
-
-- Analyze sales performance and business KPIs
-- Explore geographic sales trends
-- Evaluate product performance and customer behavior
-- Build interactive dashboards for business reporting
-- Demonstrate Power BI data modeling and DAX capabilities
+The objective of this analysis is to examine sales performance, customer behavior, product trends, and geographic patterns in order to identify key business insights through interactive dashboard reporting and data visualization.
 
 ---
+## 🔄 Project Workflow
+- Data Preparation & Transformation
+- Data Modeling
+- DAX Measure Creation
+- Dashboard Development
+- Interactive Visualization & Reporting
+- Business Insight Generation
 
 ## 🛠️ Tools & Technologies
 
@@ -22,6 +24,8 @@ This project showcases an interactive Power BI dashboard developed using the Adv
 - DAX
 - Data Modeling
 - Power Query
+- Data Visualization
+- Dashboard Development
 
 ---
 
@@ -33,7 +37,6 @@ This project showcases an interactive Power BI dashboard developed using the Adv
 - DAX Measures
 - Interactive Visualizations
 - Drillthrough Navigation
-- Tooltip Design
 - Geographic Analysis
 - Customer & Product Analysis
 - Business Intelligence Reporting
